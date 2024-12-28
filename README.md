@@ -1,15 +1,15 @@
 # Global Development Insights
 
-This repository contains a SQL database and queries for analyzing global population and demographic data. It provides insights into various trends across countries, offering a resource for understanding development patterns.
+This repository contains a SQL database and queries for analyzing global population and demographic data, sourced from **Worldometers 2024 data**. It provides insights into various trends across countries, offering a resource for understanding development patterns.
 
 ## Project Overview
 
-The project uses a single SQL table `countries` to store various demographic data points for different countries around the world. It then performs different queries to analyse and draw insightful data based on these. It is aimed to offer a comprehensive analysis of global population trends and demographic data.
+The project uses a single SQL table `countries` to store various demographic data points for different countries around the world, using data from Worldometers for 2024. It then performs different queries to analyse and draw insightful data based on these. It is aimed to offer a comprehensive analysis of global population trends and demographic data.
 
 ## Features
 
 - **Database Creation:** A SQL script to create a database named `analysis` with a table named `countries`.
-- **Data Insertion:** An SQL script that inserts demographic data (population, growth rates, density, etc.) for various countries.
+- **Data Insertion:** An SQL script that inserts demographic data (population, growth rates, density, etc.) for various countries based on Worldometers' 2024 dataset.
 - **Insightful Queries:** A series of SQL queries to analyze the data and extract meaningful information:
   - **Basic Statistics:** Calculating average, max, and min for various demographic parameters like population, fertility rates, etc.
   - **Comparative Analysis:** Identifying countries with above/below average density, fertility, population change, etc.
@@ -184,4 +184,4 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-- Data from [worldometers](https://www.worldometers.info/world-population/population-by-country/)
+- Data from [Worldometers](https://www.worldometers.info/world-population/population-by-country/) - 2024 data.
