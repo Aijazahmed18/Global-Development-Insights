@@ -184,4 +184,4 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-- Data from [worldometers](https://www.worldometers.info/population/countries-in-the-world-by-population/)
+- Data from [worldometers](https://www.worldometers.info/world-population/population-by-country/)
